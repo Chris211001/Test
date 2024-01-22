@@ -1,4 +1,6 @@
 {"type":"success","message":"Zu Beginn einer Partie wird das Schachbrett so aufgestellt, dass sich rechts unten ein weißes (oder helles) Feld befindet. Wer Englisch kann, kann sich diesen Satz sicher ganz leicht merken: White on Right
 
 Die Figuren werden dann auf beiden Seiten gleich platziert. Die zweite Reihe wird komplett mit Bauern besetzt. In die Ecken kommen die Türme und direkt daneben die Springer. Dann folgen die Läufer und in der Mitte steht das königliche Paar. Die Dame kommt immer auf das Feld ihrer Farbe (Weiße Dame - weißes Feld. Schwarze Dame - schwarzes Feld) und der König kommt auf das letzte verbleibende Feld.
+
+Jede der 6 Schachfiguren bewegt sich unterschiedlich. Abgesehen vom Springer, der über andere Figuren springen kann, können Figuren weder durch andere Figuren hindurch, noch auf ein bereits von einer anderen eigenen Figur besetztes Feld ziehen. Allerdings kann man auf Felder ziehen, die von einer gegnerischen Figur besetzt sind. Damit schlägt man diese Figur und sie muss das Brett verlassen. Die eigenen Figuren zieht man in der Regel auf Felder, von denen aus man entweder die Figuren des Gegners angreift, eigene Figuren deckt, oder sonstige wichtige Felder auf dem Brett kontrolliert.
 ","code":710}
