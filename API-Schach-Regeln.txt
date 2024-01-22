@@ -1,1 +1,4 @@
-{"type":"success","message":"Zu Beginn einer Partie wird das Schachbrett so aufgestellt, dass sich rechts unten ein weißes (oder helles) Feld befindet. Wer Englisch kann, kann sich diesen Satz sicher ganz leicht merken: White on Right","code":710}
+{"type":"success","message":"Zu Beginn einer Partie wird das Schachbrett so aufgestellt, dass sich rechts unten ein weißes (oder helles) Feld befindet. Wer Englisch kann, kann sich diesen Satz sicher ganz leicht merken: White on Right
+
+Die Figuren werden dann auf beiden Seiten gleich platziert. Die zweite Reihe wird komplett mit Bauern besetzt. In die Ecken kommen die Türme und direkt daneben die Springer. Dann folgen die Läufer und in der Mitte steht das königliche Paar. Die Dame kommt immer auf das Feld ihrer Farbe (Weiße Dame - weißes Feld. Schwarze Dame - schwarzes Feld) und der König kommt auf das letzte verbleibende Feld.
+","code":710}
