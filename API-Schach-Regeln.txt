@@ -1,1 +1,29 @@
-{"type":"success","message":"This session key was invalid or expired","code":710}
+{"type":"success","message":"Zu Beginn einer Partie wird das Schachbrett so aufgestellt, dass sich rechts unten ein weißes (oder helles) Feld befindet. Wer Englisch kann, kann sich diesen Satz sicher ganz leicht merken: "White on Right"
+
+Wie man das Schachbrett aufbaut
+
+Die Figuren werden dann auf beiden Seiten gleich platziert. Die zweite Reihe wird komplett mit Bauern besetzt. In die Ecken kommen die Türme und direkt daneben die Springer. Dann folgen die Läufer und in der Mitte steht das königliche Paar. Die Dame kommt immer auf das Feld ihrer Farbe (Weiße Dame - weißes Feld. Schwarze Dame - schwarzes Feld) und der König kommt auf das letzte verbleibende Feld.
+
+Jede der 6 Schachfiguren bewegt sich unterschiedlich. Abgesehen vom Springer, der über andere Figuren springen kann, können Figuren weder durch andere Figuren hindurch, noch auf ein bereits von einer anderen eigenen Figur besetztes Feld ziehen. Allerdings kann man auf Felder ziehen, die von einer gegnerischen Figur besetzt sind. Damit schlägt man diese Figur und sie muss das Brett verlassen. Die eigenen Figuren zieht man in der Regel auf Felder, von denen aus man entweder die Figuren des Gegners angreift, eigene Figuren deckt, oder sonstige wichtige Felder auf dem Brett kontrolliert.
+
+Es gibt mehrere Arten, wie eine Partie enden kann. Die häufigsten sind Schachmatt, Aufgabe und Remis.
+Das Matt
+
+Das Ziel des Spiels ist es, den gegnerischen König Schachmatt zu setzen. Dies gelingt, wenn der König im Schach steht und sich nicht aus dem Schach befreien kann. Es gibt nur drei Wege, wie sich ein König einem Schach entziehen kann:
+
+    Auf ein nicht bedrohtes Feld ziehen (Rochieren ist allerdings nicht erlaubt!)
+    Das Schach mit einer anderen Figur blockieren
+    Die Figur, die das Schach gibt, zu schlagen.
+
+Kann sich ein König einem Schach nicht entziehen, endet die Partie. Traditionell wird der König nicht geschlagen oder vom Brett genommen, sondern die Partie wird einfach beendet.
+
+Aufgabe
+
+Befindet sich ein Spieler in einer aussichtslosen Lage, muss er sich nicht bis zum Schachmatt quälen. Er darf die Partie auch vorzeitig aufgeben.
+
+Remis
+
+Gelegentlich enden Schachpartien nicht mit einem Gewinner, sondern Unentschieden. Und das nennen wir im Schach Remis. Es gibt fünf Gründe, warum eine Schachpartie Remis enden kann:
+
+    Ein Spieler wird Patt gesetzt. Das bedeutet, dass der Spieler, der am Zug ist, keinen Zug ausführen kann, der seinen eigenen König nicht in ein Schach ziehen würde.
+","code":710}
