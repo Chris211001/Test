@@ -1,4 +1,4 @@
-{"type":"success","message":"At the beginning of a game, the chessboard is set up with a white square in the bottom right corner. For those who know English, this sentence is easy to remember: "White on Right."
+{"type":"success","message":"At the beginning of a game, the chessboard is set up with a white square in the bottom right corner. For those who know English, this sentence is easy to remember: White on Right.
 
 The pieces are then placed on both sides in a symmetrical fashion. The second row is entirely occupied by pawns. In the corners, you'll find the rooks, and right next to them, the knights. Next in line are the bishops, and in the middle, the royal couple stands. The queen always goes on a square of her color (White Queen on a white square, Black Queen on a black square), and the king goes on the last remaining square.
 
